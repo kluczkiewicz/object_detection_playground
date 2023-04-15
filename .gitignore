@@ -1,0 +1,7 @@
+data/train/*
+data/test/*
+data/val/*
+mgr-env/
+scripts/.ipynb_checkpoints/
+scripts/_old/
+scripts/draw_bboxes.ipynb
